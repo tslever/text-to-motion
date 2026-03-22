@@ -26,6 +26,7 @@ paths_of_important_files = [
     r"gen_motion_script.py",
     r"input.txt",
     r"README.md",
+    r"sample.py",
     r"train_comp_v6.py",
     r"train_decomp_v3.py",
     r"train_length_est.py",
